@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab09.bonus.ex01;
+package ictgradschool.industry.lab_collections.bonus.ex01;
 
 /**
  * Created by Andrew Meads on 25/03/2017.

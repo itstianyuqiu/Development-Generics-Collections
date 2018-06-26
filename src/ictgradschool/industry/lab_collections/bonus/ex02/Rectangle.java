@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab09.bonus.ex02;
+package ictgradschool.industry.lab_collections.bonus.ex02;
 
 /**
  * Represents a Rectangle.

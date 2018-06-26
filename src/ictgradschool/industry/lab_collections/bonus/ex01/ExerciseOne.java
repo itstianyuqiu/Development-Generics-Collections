@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab09.bonus.ex01;
+package ictgradschool.industry.lab_collections.bonus.ex01;
 
 import java.util.ArrayList;
 import java.util.Iterator;

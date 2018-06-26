@@ -1,6 +1,5 @@
-package ictgradschool.industry.lab09.ex04;
+package ictgradschool.industry.lab_collections.ex04;
 
-import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**

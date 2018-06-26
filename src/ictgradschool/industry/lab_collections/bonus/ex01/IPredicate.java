@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab09.bonus.ex01;
+package ictgradschool.industry.lab_collections.bonus.ex01;
 
 /**
  * Classes implementing this interface are capable of testing an object to see if some condition is true.

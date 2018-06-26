@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab09.ex03;
+package ictgradschool.industry.lab_collections.ex03;
 
 import java.util.Arrays;
 
